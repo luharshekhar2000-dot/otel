@@ -47,6 +47,7 @@ Works with any observability platform that supports OpenTelemetry including:
 - [Sentry](https://sentry.io)
 - [Axiom](https://axiom.co)
 - [Datadog](https://www.datadoghq.com)
+- [Middleware](https://middleware.io/)
 - [New Relic](https://newrelic.com)
 - [SigNoz](https://signoz.io)
 - And others ...
